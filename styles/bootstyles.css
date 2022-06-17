@@ -1,0 +1,14 @@
+body {background-color: #CCCCCC;
+text-align: justify;
+scroll-snap-align:inherit;}
+
+.center {text-align: center;}
+
+.bold {font-weight: bolder}
+
+span {text-align: left;}
+
+.link {font-weight:bold;
+    text-decoration: underline;
+    color:black;
+}
